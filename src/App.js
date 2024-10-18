@@ -2,7 +2,7 @@ import React from 'react';
 import Products from './Products';
 
 function App() {
-  const year = new Date();
+  
   return (
     <div className="App bg-gray-100 min-h-screen flex flex-col">
       <header className="bg-blue-600 text-white p-2 fixed top-0 w-full z-50">
